@@ -4,12 +4,16 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title>
+  <title>UD Atenea Cursos</title>
+  <link href='https://fonts.googleapis.com/css?family=Jost' rel='stylesheet'>
+  <link rel="stylesheet" href="./styles/style.css">
 </head>
 <body>
   <header>
-    <DIV>
-      <img src="./Pulic/Images/header-logo.png" alt="main-logo">
+    <div class="header__navigation">
+      <img 
+      src="./Pulic/Images/header-logo.png" 
+      alt="main-logo">
       <nav>
         <ul>
           <li><a href="#banner">Cursos</a></li>
@@ -19,9 +23,11 @@
         </ul>
       </nav>
     </div>
-    <div>
+    <div class="header__settings">
       <div>
-        <img src="./Pulic/Images/header-world.png" alt="world">
+        <img 
+        src="./Pulic/Images/header-world.png" 
+        alt="world">
         <span>Español</span>
       </div>
       <button>Ingresar</button>
@@ -29,26 +35,25 @@
   </header>
   <main>
     <section id="banner">
-     <div>
       <div>
-        <h1>Aprovecha la era digital, toma clases en linea</h1>
-        <p>
-          Toma los cursos más importantes de tecnología con
-          clases en línea, donde podrás tener acceso a contenido
-          actualizado desde la comodidad de tu casa y a tu ritmo.
-        </p>
-      </div>   
-      <div>
-        <button>Saber mas</button>
-        <button>Planes</button>
-      </div>   
-     </div>
-     <img 
-     src="./Pulic/Images/banner-online.png" 
-     alt="Online-education"
-     width="550px" 
-     height="350px"
-    >
+        <div>
+          <h1>Aprovecha la era digital, toma clases en linea</h1>
+          <p>
+            Toma los cursos más importantes de tecnología con
+            clases en línea, donde podrás tener acceso a contenido
+            actualizado desde la comodidad de tu casa y a tu ritmo.
+          </p>
+        </div>
+        <div>
+          <button class="button--orange">Saber mas</button>
+          <button class="button--white">Planes</button>
+        </div>
+      </div>
+      <img 
+      src="./Pulic/Images/banner-online.png" 
+      alt="Online-education" 
+      width="550px" 
+      height="350px">
     </section>
     <section id="section-1">
       <div>
@@ -61,28 +66,25 @@
       <div>
         <img 
         src="./Pulic/Images/section1-education.png" 
-        alt="education"
-        width="120px"
-        height="120px"
-        >
+        alt="education" 
+        width="120px" 
+        height="120px">
         <h3>Virtualidad y educacion</h3>
       </div>
       <div>
         <h3>Alcance y objetivos</h3>
         <img 
         src="./Pulic/Images/section1-goals.png" 
-        alt="goals"
-        width="120px"
-        height="120px"
-        >
+        alt="goals" 
+        width="120px" 
+        height="120px">
       </div>
       <div>
         <img 
         src="./Pulic/Images/section1-teach.png" 
-        alt="teach"
-        width="120px"
-        height="120px"
-        >
+        alt="teach" 
+        width="120px" 
+        height="120px">
         <h3>Clases Inclusivas</h3>
       </div>
     </section>
@@ -90,8 +92,8 @@
       <div>
         <img 
         src="./Pulic/Images/section2-tools.png" 
-        alt="tools"
-        width="500px"
+        alt="tools" 
+        width="500px" 
         height="350px"
         >
         <div>
@@ -102,23 +104,23 @@
             aprovechamos cada una de estas para brindarte la mejor
             experiencia en linea.
           </p>
-          <button>Saber más</button>
+          <button class="button--orange">Saber más</button>
         </div>
       </div>
-      <div>        
+      <div>
         <div>
           <h2>Educacion pensando en</h2>
           <h2>Objetivos alcanzados</h2>
           <p>
             Es importante para nosotros que las metas de cada uno de
-            nuestros estudiantes sea alcanzada através de nuestros cursos.            
+            nuestros estudiantes sea alcanzada através de nuestros cursos.
           </p>
-          <button>Saber más</button>
+          <button class="button--orange">Saber más</button>
         </div>
         <img 
         src="./Pulic/Images/section2-goals.png" 
-        alt="goals"
-        width="500px"
+        alt="goals" 
+        width="500px" 
         height="350px"
         >
       </div>
@@ -126,27 +128,17 @@
   </main>
   <footer id="footer">
     <div>
-      <img 
-      src="./Pulic/Images/footer-logo.png" 
-      alt="footer-logo"
-      width="200px"
-      height="175px"
-      >
+      <img src="./Pulic/Images/footer-logo.png" alt="footer-logo" width="200px" height="175px">
       <div>
         <p>
           Únete a nuestra comunidad para recibir información
           actualizada de los cursos y conferencia que ofrecemos.
         </p>
         <form method="post">
-          <input 
-          type="email" 
-          name="user_name" 
-          id="email" 
-          placeholder="correo electronico"
-          >
-          <button>Suscribirse</button>          
+          <input type="email" name="user_name" id="email" placeholder="correo electronico">
+          <button>Suscribirse</button>
         </form>
-      </div>     
+      </div>
     </div>
     <div>
       <table>
@@ -159,24 +151,24 @@
           <td><a href="">Planestic</a></td>
           <td><a href="">Que costo tiene suscribirme?</a></td>
           <td>+(57) 320 80 80</td>
-        </tr>          
-        <tr> 
+        </tr>
+        <tr>
           <td><a href="">Moodle</a></td>
           <td><a href="">Como obtengo mis certificados?</a></td>
-          <td><a href="">universidaddistrital@edu.co</a></td>         
+          <td><a href="">universidaddistrital@edu.co</a></td>
         </tr>
         <tr>
           <td><a href="">Athenea</a></td>
-          <td><a href=""></a>Medios de pago</td>
-          <td><a href=""></a>Cll 40 # 7 -19 - Bogota</td>
+          <td><a href="">Medios de pago</a></td>
+          <td>Cll 40 # 7 -19 - Bogota</td>
         </tr>
         <tr>
           <td><a href="">Administracion</a></td>
-          <td><a href=""></a>Que convenios existen?</td>
+          <td><a href="">Que convenios existen?</a></td>
         </tr>
       </table>
     </div>
   </footer>
 </body>
-</html>
 
+</html>
