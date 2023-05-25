@@ -11,6 +11,8 @@
 <hr>
 
 <h3>PUNTO 3: CSS </h3>
+<h2>punto 1: Link de figma</h2>
+<a href="https://karinarojastavera.github.io/taller-9-fullstactk/" target="_blank">Link de Pagina</a>  
 <img src="./public/images/html-css.png" alt="css">
 
 
