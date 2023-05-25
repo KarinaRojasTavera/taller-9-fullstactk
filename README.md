@@ -10,6 +10,9 @@
 <img src="./public/images/html.png" alt="html">
 <hr>
 
+<h3>PUNTO 3: CSS </h3>
+<img src="./public/images/html-css.png" alt="css">
+
 
 
 
