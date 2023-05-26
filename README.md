@@ -22,7 +22,10 @@
 
 <h2>PUNTO 4: </h2>
 <img src="./public/images/imagen punto4.png" alt="css">
+<hr>
 
+<h2>PUNTO 5: </h2>
+<img src="./public/images/punto5.png" alt="css">
 
 
 
