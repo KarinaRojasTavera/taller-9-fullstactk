@@ -1,4 +1,4 @@
-<h1>Taller 9: Karina Rojas Tavera</h1>
+<h1>Taller Unidad 9: Karina Rojas Tavera</h1>
 <hr>
 <h2>Información</h2>
 <p>Curso: Full Stack Basico-Grupo 1 <p>
@@ -9,18 +9,19 @@
 
 <a href="https://karinarojastavera.github.io/taller-9-fullstactk/" target="_blank">Link de la Pagina</a>
 
-<h2>PUNTO 2: THML </h2>
+<h2>PUNTO 2: THML</h2>
 <img src="./public/images/html.png" alt="html">
 <hr>
 
-<h3>PUNTO 3: CSS </h3>
-<h2>punto 3: Link de la Pagina</h2>
+<h2>PUNTO 3: CSS </h2>
 
-<a href="https://karinarojastavera.github.io/taller-9-fullstactk/" target="_blank">Link de Pagina</a>  
+<a href="https://karinarojastavera.github.io/taller-9-fullstactk/" target="_blank">Link de Pagina</a> 
+
 <img src="./public/images/html-css.png" alt="css">
-
 <hr>
 
+<h2>PUNTO 4: </h2>
+<img src="./public/images/imagen punto4.png" alt="css">
 
 
 

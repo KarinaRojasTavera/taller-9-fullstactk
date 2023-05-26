@@ -1,0 +1,23 @@
+h2{
+    color: rgb(51, 121, 153);
+}
+
+.titulo_rojo {
+    color: red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.titulo_azul{
+    color: blue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+
+
+
