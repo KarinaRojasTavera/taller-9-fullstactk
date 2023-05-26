@@ -1,0 +1,35 @@
+div {
+    margin: 50px 290px;
+    
+}
+
+
+.ponerverde {
+
+    color: green
+}
+
+.ponerrojo {
+
+    color: red
+}
+
+.en_medio {
+
+    text-decoration-line: overline;
+}
+
+.aumen-letra  {
+
+    font-size: 35px;
+}
+
+.asig-azul {
+
+    color: blue;
+}
+
+.asig-rojo {
+
+    color: red
+}
