@@ -1,0 +1,14 @@
+body {
+    margin: 50px 290px;
+   
+    }
+#amarillo {
+    color: yellow;
+    justify-content: center;
+}
+
+#azul {
+    color: rgb(48, 5, 105);
+    justify-content: center;
+   
+    }

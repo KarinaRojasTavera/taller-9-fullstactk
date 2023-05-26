@@ -1,0 +1,17 @@
+body {
+    margin: 50px 80px;
+
+}
+
+.boton {
+    margin: 50px 80px;
+}
+
+nav {
+    padding: 1px;
+    background-color: rgb(226, 43, 165);
+    margin: 25px 100px;
+    display: flex;
+    align-items: center;
+
+}
