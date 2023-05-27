@@ -33,7 +33,7 @@
 <hr>
 
 <h2>PUNTO 7-8: </h2>
-<img src="./public/images/punto7-8.png" alt="css">
+<img src="./public/images/punto7.png" alt="css">
 <hr>
 
 
