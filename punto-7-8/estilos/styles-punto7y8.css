@@ -5,13 +5,20 @@ body {
 
 .boton {
     margin: 50px 80px;
+    background-color: blue;
+    color: #fff;
+    padding: 25px 40px;
+    font-size: 25px;
+    border: 1px solid;
 }
 
 nav {
     padding: 1px;
-    background-color: rgb(226, 43, 165);
+    background-color: #ee80fd94;
     margin: 25px 100px;
     display: flex;
     align-items: center;
-
+    font-size: 25px;
+    color: #fff;
 }
+

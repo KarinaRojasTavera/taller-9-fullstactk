@@ -26,6 +26,16 @@
 
 <h2>PUNTO 5: </h2>
 <img src="./public/images/punto5.png" alt="css">
+<hr>
+
+<h2>PUNTO 6: </h2>
+<img src="./public/images/punto6.png" alt="css">
+<hr>
+
+<h2>PUNTO 7: </h2>
+<img src="./public/images/punto7-8.png" alt="css">
+<hr>
+
 
 
 
