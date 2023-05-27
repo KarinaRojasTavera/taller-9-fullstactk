@@ -37,5 +37,8 @@
 <hr>
 
 
+<h2>PUNTO 9: </h2>
+<img src="./public/images/Punto9.png" alt="css">
+<hr>
 
 
