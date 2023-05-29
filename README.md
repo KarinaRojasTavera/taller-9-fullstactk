@@ -12,7 +12,6 @@
 <h2>PUNTO 2: THML</h2>
 <img src="./public/images/html.png" alt="html">
 <hr>
-https://github.com/KarinaRojasTavera/taller-9-fullstactk
 <h2>PUNTO 3: CSS </h2>
 
 <a href="https://karinarojastavera.github.io/taller-9-fullstactk/" target="_blank">Link de Pagina</a> 
@@ -40,5 +39,6 @@ https://github.com/KarinaRojasTavera/taller-9-fullstactk
 <h2>PUNTO 9: </h2>
 <img src="./public/images/Punto9.png" alt="css">
 <hr>
+
 
 
